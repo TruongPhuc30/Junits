@@ -1,5 +1,5 @@
 
-public class bai2 {
+public class Week4 {
     public static int max2Int(int a, int b) {
         return (a>b) ? a : b;
     }
